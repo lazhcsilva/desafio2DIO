@@ -4,6 +4,7 @@ public class Program {
 
 	public static void main(String[] args) {
 		System.out.println("Vida longa e Prospera");
+		System.out.println("Digital Innovation One");
 
 	}
 
